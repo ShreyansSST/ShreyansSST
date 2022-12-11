@@ -30,7 +30,7 @@ I am a Python Developer from Nepal.
 
 - ⚡ In my free time, I love travelling and enjoying scenarios.
 
-- 📫How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/swopnil-bista-4aa296230/)
+- 📫How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ShreyansSST/)
 
 
 ---
@@ -56,7 +56,7 @@ I am a Python Developer from Nepal.
 
 ### 🔥 My Stats :
 
-https://github-readme-streak-stats.herokuapp.com/?user=Swopnil38
+https://github-readme-streak-stats.herokuapp.com/?ShreyansSST
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Swopnil38&theme=dark&hide_border=true&border_radius=4.2)](https://git.io/streak-stats)
 
